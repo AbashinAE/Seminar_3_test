@@ -37,3 +37,21 @@ Git add
 
 ## Работа с картинками
 ![Картинка](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmivvCZa3lIuPF1p5FEQi4TRZm5qNov8e8HzAKCO0&s)
+
+## Работа с сылками
+[Работа с markdown](https://lifehacker.ru/chto-takoe-markdown/
+)
+## Работа со списками
+
+1. Один
+2. Два
+
+ *
+ * 
+
+ +
+ +
+
+ -
+ -
+ 
